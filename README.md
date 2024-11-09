@@ -1,4 +1,4 @@
-# Who
+## Who we are
 
 We are a small local church in Toronto that has been blessed with a lot of developers and designers and would like to start doing software projects together that would help the church
 
