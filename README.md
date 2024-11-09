@@ -6,7 +6,7 @@ We are a small local church in Toronto that has a lot of developers and would li
 
 ## Contributing
 
-Check out our church at sheepgatetoronto.ca
+Check out our church at [sheepgatetoronto.ca](https://sheepgatetoronto.ca)
 
 Our team is composed of experienced/student/aspiring programmer volunteers who attend our church
 
